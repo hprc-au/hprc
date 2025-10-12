@@ -1,0 +1,12 @@
+# SITE STUFF
+title: High Plains Regional Council
+description: Official Website
+tagline: Serving the High Plains Region
+url: "" # The base hostname & protocol for your site, e.g. http://example.com
+
+# THEME 
+remote_theme: pages-themes/cayman@v0.2.0
+
+# BUILD SETTINGS
+plugins:
+  - jekyll-remote-theme
