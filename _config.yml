@@ -10,7 +10,8 @@ remote_theme: pages-themes/cayman@v0.2.0
 # BUILD SETTINGS
 plugins:
   - jekyll-remote-theme
-  header_pages:
+  
+header_pages:
   - index.md
   - our-council.md
   - services.md
