@@ -15,3 +15,6 @@ header_pages:
   - our-council.md
   - services.md
   - contact.md
+
+  exclude:
+    - 'index.html'
