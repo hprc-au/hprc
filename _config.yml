@@ -17,4 +17,4 @@ header_pages:
   - contact.md
 
   exclude:
-    - 'index.html'
+    - 'timetabler.html'
