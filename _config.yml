@@ -16,5 +16,5 @@ header_pages:
   - services.md
   - contact.md
 
-  exclude:
-    - 'timetabler.html'
+exclude:
+  - index.html
